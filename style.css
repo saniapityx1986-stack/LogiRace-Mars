@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nachalo {
+    text-align: center;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: #CF7130;
+}
+.spisokfaktov {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.silka {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: 3px;
+    border-color: black; 
+    padding: 15px;
+}
+.foto {
+    width: 300px;
+    height:  300px;
+   
+}
+.infa-pro-mars {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 15px;
+}
+.suputniki-marsa {
+    margin-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.infamars {
+    padding: 15px;
+ }
+ .infamars1{
+    padding: 15px;
+ }
